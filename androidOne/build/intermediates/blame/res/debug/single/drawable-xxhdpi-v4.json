@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btg_bg_tag_left.9.png",
+        "source": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\drawable-xxhdpi-v4\\btg_bg_tag_left.9.png"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btg_bg_tag_right.9.png",
+        "source": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\drawable-xxhdpi-v4\\btg_bg_tag_right.9.png"
+    }
+]

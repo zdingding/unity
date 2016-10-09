@@ -1,0 +1,3209 @@
+[
+    {
+        "outputFile": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 19,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 514
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 519,
+                    "endLine": 239,
+                    "endColumn": 19,
+                    "endOffset": 6517
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1424,
+                        "endLine": 258,
+                        "endColumn": 19,
+                        "endOffset": 7422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 6522,
+                    "endLine": 244,
+                    "endColumn": 19,
+                    "endOffset": 6678
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\drag_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 562,
+                        "endLine": 21,
+                        "endColumn": 19,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 6683,
+                    "endLine": 249,
+                    "endColumn": 19,
+                    "endOffset": 6840
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\drag_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 728,
+                        "endLine": 27,
+                        "endColumn": 19,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 6845,
+                    "endLine": 267,
+                    "endColumn": 19,
+                    "endOffset": 7480
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\drag_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 896,
+                        "endLine": 46,
+                        "endColumn": 19,
+                        "endOffset": 1531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 7485,
+                    "endLine": 275,
+                    "endColumn": 19,
+                    "endOffset": 7744
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endLine": 31,
+                        "endColumn": 19,
+                        "endOffset": 1418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 7749,
+                    "endLine": 279,
+                    "endColumn": 19,
+                    "endOffset": 7877
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\drag_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 424,
+                        "endLine": 15,
+                        "endColumn": 19,
+                        "endOffset": 552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 7882,
+                    "endColumn": 55,
+                    "endOffset": 7933
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\swipelistview_string.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2086,
+                        "endColumn": 55,
+                        "endOffset": 2137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 7938,
+                    "endColumn": 58,
+                    "endOffset": 7992
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\slidingtab_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 58,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 7997,
+                    "endColumn": 42,
+                    "endOffset": 8035
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 141,
+                        "endColumn": 42,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 8040,
+                    "endColumn": 39,
+                    "endOffset": 8075
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 96,
+                        "endColumn": 39,
+                        "endOffset": 131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 8080,
+                    "endColumn": 51,
+                    "endOffset": 8127
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 51,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 8132,
+                    "endColumn": 51,
+                    "endOffset": 8179
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 51,
+                        "endOffset": 383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 8184,
+                    "endColumn": 51,
+                    "endOffset": 8231
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 51,
+                        "endOffset": 331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 8236,
+                    "endColumn": 52,
+                    "endOffset": 8284
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 519,
+                        "endColumn": 52,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 8289,
+                    "endColumn": 51,
+                    "endOffset": 8336
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 572,
+                        "endColumn": 51,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 8341,
+                    "endColumn": 58,
+                    "endOffset": 8395
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 58,
+                        "endOffset": 678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 8400,
+                    "endColumn": 64,
+                    "endOffset": 8460
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 683,
+                        "endColumn": 64,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 8465,
+                    "endColumn": 47,
+                    "endOffset": 8508
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 47,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 8513,
+                    "endColumn": 52,
+                    "endOffset": 8561
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\slidingmenu_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 434,
+                        "endColumn": 52,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 8566,
+                    "endColumn": 43,
+                    "endOffset": 8605
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 388,
+                        "endColumn": 43,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 8610,
+                    "endColumn": 47,
+                    "endOffset": 8653
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 47,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 8658,
+                    "endColumn": 39,
+                    "endOffset": 8693
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 39,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 17783,
+                    "endColumn": 57,
+                    "endOffset": 17836
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 345,
+                    "startColumn": 4,
+                    "startOffset": 17841,
+                    "endColumn": 55,
+                    "endOffset": 17892
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 346,
+                    "startColumn": 4,
+                    "startOffset": 17897,
+                    "endColumn": 51,
+                    "endOffset": 17944
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1148,
+                        "endColumn": 51,
+                        "endOffset": 1195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 347,
+                    "startColumn": 4,
+                    "startOffset": 17949,
+                    "endColumn": 50,
+                    "endOffset": 17995
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1200,
+                        "endColumn": 50,
+                        "endOffset": 1246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 18000,
+                    "endColumn": 53,
+                    "endOffset": 18049
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1251,
+                        "endColumn": 53,
+                        "endOffset": 1300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 349,
+                    "startColumn": 4,
+                    "startOffset": 18054,
+                    "endColumn": 58,
+                    "endOffset": 18108
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1305,
+                        "endColumn": 58,
+                        "endOffset": 1359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 350,
+                    "startColumn": 4,
+                    "startOffset": 18113,
+                    "endColumn": 53,
+                    "endOffset": 18162
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1364,
+                        "endColumn": 53,
+                        "endOffset": 1413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 351,
+                    "startColumn": 4,
+                    "startOffset": 18167,
+                    "endColumn": 55,
+                    "endOffset": 18218
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1418,
+                        "endColumn": 55,
+                        "endOffset": 1469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 352,
+                    "startColumn": 4,
+                    "startOffset": 18223,
+                    "endColumn": 50,
+                    "endOffset": 18269
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1474,
+                        "endColumn": 50,
+                        "endOffset": 1520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 353,
+                    "startColumn": 4,
+                    "startOffset": 18274,
+                    "endColumn": 52,
+                    "endOffset": 18322
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1525,
+                        "endColumn": 52,
+                        "endOffset": 1573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 354,
+                    "startColumn": 4,
+                    "startOffset": 18327,
+                    "endColumn": 52,
+                    "endOffset": 18375
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1578,
+                        "endColumn": 52,
+                        "endOffset": 1626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 355,
+                    "startColumn": 4,
+                    "startOffset": 18380,
+                    "endColumn": 52,
+                    "endOffset": 18428
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1631,
+                        "endColumn": 52,
+                        "endOffset": 1679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 356,
+                    "startColumn": 4,
+                    "startOffset": 18433,
+                    "endColumn": 55,
+                    "endOffset": 18484
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1684,
+                        "endColumn": 55,
+                        "endOffset": 1735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 357,
+                    "startColumn": 4,
+                    "startOffset": 18489,
+                    "endColumn": 55,
+                    "endOffset": 18540
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1740,
+                        "endColumn": 55,
+                        "endOffset": 1791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 358,
+                    "startColumn": 4,
+                    "startOffset": 18545,
+                    "endColumn": 54,
+                    "endOffset": 18595
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1796,
+                        "endColumn": 54,
+                        "endOffset": 1846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 359,
+                    "startColumn": 4,
+                    "startOffset": 18600,
+                    "endColumn": 54,
+                    "endOffset": 18650
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1851,
+                        "endColumn": 54,
+                        "endOffset": 1901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 360,
+                    "startColumn": 4,
+                    "startOffset": 18655,
+                    "endColumn": 57,
+                    "endOffset": 18708
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1906,
+                        "endColumn": 57,
+                        "endOffset": 1959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 361,
+                    "startColumn": 4,
+                    "startOffset": 18713,
+                    "endColumn": 52,
+                    "endOffset": 18761
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1964,
+                        "endColumn": 52,
+                        "endOffset": 2012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 362,
+                    "startColumn": 4,
+                    "startOffset": 18766,
+                    "endColumn": 54,
+                    "endOffset": 18816
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2017,
+                        "endColumn": 54,
+                        "endOffset": 2067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 363,
+                    "startColumn": 4,
+                    "startOffset": 18821,
+                    "endColumn": 52,
+                    "endOffset": 18869
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2072,
+                        "endColumn": 52,
+                        "endOffset": 2120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 364,
+                    "startColumn": 4,
+                    "startOffset": 18874,
+                    "endColumn": 54,
+                    "endOffset": 18924
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2125,
+                        "endColumn": 54,
+                        "endOffset": 2175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 365,
+                    "startColumn": 4,
+                    "startOffset": 18929,
+                    "endColumn": 54,
+                    "endOffset": 18979
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2180,
+                        "endColumn": 54,
+                        "endOffset": 2230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 366,
+                    "startColumn": 4,
+                    "startOffset": 18984,
+                    "endColumn": 52,
+                    "endOffset": 19032
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2235,
+                        "endColumn": 52,
+                        "endOffset": 2283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 367,
+                    "startColumn": 4,
+                    "startOffset": 19037,
+                    "endColumn": 52,
+                    "endOffset": 19085
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2288,
+                        "endColumn": 52,
+                        "endOffset": 2336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 368,
+                    "startColumn": 4,
+                    "startOffset": 19090,
+                    "endColumn": 50,
+                    "endOffset": 19136
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2341,
+                        "endColumn": 50,
+                        "endOffset": 2387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 369,
+                    "startColumn": 4,
+                    "startOffset": 19141,
+                    "endColumn": 52,
+                    "endOffset": 19189
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2392,
+                        "endColumn": 52,
+                        "endOffset": 2440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 370,
+                    "startColumn": 4,
+                    "startOffset": 19194,
+                    "endColumn": 59,
+                    "endOffset": 19249
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2445,
+                        "endColumn": 59,
+                        "endOffset": 2500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 371,
+                    "startColumn": 4,
+                    "startOffset": 19254,
+                    "endColumn": 59,
+                    "endOffset": 19309
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2505,
+                        "endColumn": 59,
+                        "endOffset": 2560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 372,
+                    "startColumn": 4,
+                    "startOffset": 19314,
+                    "endColumn": 56,
+                    "endOffset": 19366
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2565,
+                        "endColumn": 56,
+                        "endOffset": 2617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 373,
+                    "startColumn": 4,
+                    "startOffset": 19371,
+                    "endColumn": 59,
+                    "endOffset": 19426
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2622,
+                        "endColumn": 59,
+                        "endOffset": 2677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 374,
+                    "startColumn": 4,
+                    "startOffset": 19431,
+                    "endColumn": 63,
+                    "endOffset": 19490
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2682,
+                        "endColumn": 63,
+                        "endOffset": 2741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 19495,
+                    "endColumn": 55,
+                    "endOffset": 19546
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2746,
+                        "endColumn": 55,
+                        "endOffset": 2797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 376,
+                    "startColumn": 4,
+                    "startOffset": 19551,
+                    "endColumn": 58,
+                    "endOffset": 19605
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2802,
+                        "endColumn": 58,
+                        "endOffset": 2856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 377,
+                    "startColumn": 4,
+                    "startOffset": 19610,
+                    "endColumn": 60,
+                    "endOffset": 19666
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2861,
+                        "endColumn": 60,
+                        "endOffset": 2917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 378,
+                    "startColumn": 4,
+                    "startOffset": 19671,
+                    "endColumn": 59,
+                    "endOffset": 19726
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2922,
+                        "endColumn": 59,
+                        "endOffset": 2977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 379,
+                    "startColumn": 4,
+                    "startOffset": 19731,
+                    "endColumn": 59,
+                    "endOffset": 19786
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2982,
+                        "endColumn": 59,
+                        "endOffset": 3037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 380,
+                    "startColumn": 4,
+                    "startOffset": 19791,
+                    "endColumn": 62,
+                    "endOffset": 19849
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3042,
+                        "endColumn": 62,
+                        "endOffset": 3100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 381,
+                    "startColumn": 4,
+                    "startOffset": 19854,
+                    "endColumn": 52,
+                    "endOffset": 19902
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3105,
+                        "endColumn": 52,
+                        "endOffset": 3153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 382,
+                    "startColumn": 4,
+                    "startOffset": 19907,
+                    "endColumn": 49,
+                    "endOffset": 19952
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3158,
+                        "endColumn": 49,
+                        "endOffset": 3203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 19957,
+                    "endColumn": 61,
+                    "endOffset": 20014
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3208,
+                        "endColumn": 61,
+                        "endOffset": 3265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 384,
+                    "startColumn": 4,
+                    "startOffset": 20019,
+                    "endColumn": 50,
+                    "endOffset": 20065
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3270,
+                        "endColumn": 50,
+                        "endOffset": 3316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 385,
+                    "startColumn": 4,
+                    "startOffset": 20070,
+                    "endColumn": 63,
+                    "endOffset": 20129
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\pulltorefresh_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 342,
+                        "endColumn": 63,
+                        "endOffset": 401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 20134,
+                    "endColumn": 63,
+                    "endOffset": 20193
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\pulltorefresh_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 406,
+                        "endColumn": 63,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 387,
+                    "startColumn": 4,
+                    "startOffset": 20198,
+                    "endColumn": 42,
+                    "endOffset": 20236
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\swipelistview_string.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 1996,
+                        "endColumn": 42,
+                        "endOffset": 2034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 388,
+                    "startColumn": 4,
+                    "startOffset": 20241,
+                    "endColumn": 54,
+                    "endOffset": 20291
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\pulltorefresh_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 54,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 389,
+                    "startColumn": 4,
+                    "startOffset": 20296,
+                    "endColumn": 56,
+                    "endOffset": 20348
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\pulltorefresh_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 285,
+                        "endColumn": 56,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 390,
+                    "startColumn": 4,
+                    "startOffset": 20353,
+                    "endColumn": 54,
+                    "endOffset": 20403
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\pulltorefresh_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 54,
+                        "endOffset": 225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 391,
+                    "startColumn": 4,
+                    "startOffset": 20408,
+                    "endColumn": 42,
+                    "endOffset": 20446
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\drag_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 42,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 392,
+                    "startColumn": 4,
+                    "startOffset": 20451,
+                    "endColumn": 46,
+                    "endOffset": 20493
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\slidingmenu_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 46,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 393,
+                    "startColumn": 4,
+                    "startOffset": 20498,
+                    "endColumn": 53,
+                    "endOffset": 20547
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\slidingmenu_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 53,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 394,
+                    "startColumn": 4,
+                    "startOffset": 20552,
+                    "endColumn": 45,
+                    "endOffset": 20593
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\slidingmenu_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 45,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 395,
+                    "startColumn": 4,
+                    "startOffset": 20598,
+                    "endColumn": 48,
+                    "endOffset": 20642
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\slidingmenu_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 48,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 396,
+                    "startColumn": 4,
+                    "startOffset": 20647,
+                    "endColumn": 45,
+                    "endOffset": 20688
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\swipelistview_string.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1950,
+                        "endColumn": 45,
+                        "endOffset": 1991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 397,
+                    "startColumn": 4,
+                    "startOffset": 20693,
+                    "endColumn": 43,
+                    "endOffset": 20732
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\slidingmenu_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 43,
+                        "endOffset": 341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 398,
+                    "startColumn": 4,
+                    "startOffset": 20737,
+                    "endColumn": 46,
+                    "endOffset": 20779
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\swipelistview_string.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2039,
+                        "endColumn": 46,
+                        "endOffset": 2081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 399,
+                    "startColumn": 4,
+                    "startOffset": 20784,
+                    "endColumn": 49,
+                    "endOffset": 20829
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\slidingmenu_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 49,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 400,
+                    "startColumn": 4,
+                    "startOffset": 20834,
+                    "endColumn": 41,
+                    "endOffset": 20871
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\drag_strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 2933,
+                        "endColumn": 41,
+                        "endOffset": 2970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 401,
+                    "startColumn": 4,
+                    "startOffset": 20876,
+                    "endColumn": 40,
+                    "endOffset": 20912
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\drag_strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 2892,
+                        "endColumn": 40,
+                        "endOffset": 2928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 402,
+                    "startColumn": 4,
+                    "startOffset": 20917,
+                    "endColumn": 37,
+                    "endOffset": 20950
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\pulltorefresh_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 38,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 403,
+                    "startColumn": 4,
+                    "startOffset": 20955,
+                    "endColumn": 42,
+                    "endOffset": 20993
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\slidingmenu_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 42,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 404,
+                    "startColumn": 4,
+                    "startOffset": 20998,
+                    "endColumn": 39,
+                    "endOffset": 21033
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\pulltorefresh_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 133,
+                        "endColumn": 40,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 405,
+                    "startColumn": 4,
+                    "startOffset": 21038,
+                    "endColumn": 42,
+                    "endOffset": 21076
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\slidingmenu_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 42,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 406,
+                    "startColumn": 4,
+                    "startOffset": 21081,
+                    "endColumn": 36,
+                    "endOffset": 21113
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\pulltorefresh_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 95,
+                        "endColumn": 37,
+                        "endOffset": 128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 407,
+                    "startColumn": 4,
+                    "startOffset": 21118,
+                    "endColumn": 52,
+                    "endOffset": 21166
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 52,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 408,
+                    "startColumn": 4,
+                    "startOffset": 21171,
+                    "endColumn": 49,
+                    "endOffset": 21216
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\drag_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 373,
+                        "endColumn": 49,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 409,
+                    "startColumn": 4,
+                    "startOffset": 21221,
+                    "endColumn": 49,
+                    "endOffset": 21266
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\drag_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 323,
+                        "endColumn": 49,
+                        "endOffset": 368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 410,
+                    "startColumn": 4,
+                    "startOffset": 21271,
+                    "endColumn": 40,
+                    "endOffset": 21307
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 40,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 411,
+                    "startColumn": 4,
+                    "startOffset": 21312,
+                    "endColumn": 52,
+                    "endOffset": 21360
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3321,
+                        "endColumn": 52,
+                        "endOffset": 3369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 412,
+                    "startColumn": 4,
+                    "startOffset": 21365,
+                    "endColumn": 49,
+                    "endOffset": 21410
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3374,
+                        "endColumn": 49,
+                        "endOffset": 3419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 413,
+                    "startColumn": 4,
+                    "startOffset": 21415,
+                    "endColumn": 62,
+                    "endOffset": 21473
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 3424,
+                        "endColumn": 62,
+                        "endOffset": 3482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 414,
+                    "startColumn": 4,
+                    "startOffset": 21478,
+                    "endColumn": 53,
+                    "endOffset": 21527
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3487,
+                        "endColumn": 53,
+                        "endOffset": 3536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 415,
+                    "startColumn": 4,
+                    "startOffset": 21532,
+                    "endColumn": 56,
+                    "endOffset": 21584
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3541,
+                        "endColumn": 56,
+                        "endOffset": 3593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 416,
+                    "startColumn": 4,
+                    "startOffset": 21589,
+                    "endColumn": 67,
+                    "endOffset": 21652
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 3598,
+                        "endColumn": 67,
+                        "endOffset": 3661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 417,
+                    "startColumn": 4,
+                    "startOffset": 21657,
+                    "endColumn": 59,
+                    "endOffset": 21712
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 3666,
+                        "endColumn": 59,
+                        "endOffset": 3721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 418,
+                    "startColumn": 4,
+                    "startOffset": 21717,
+                    "endColumn": 76,
+                    "endOffset": 21789
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 3726,
+                        "endColumn": 76,
+                        "endOffset": 3798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 419,
+                    "startColumn": 4,
+                    "startOffset": 21794,
+                    "endColumn": 53,
+                    "endOffset": 21843
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3803,
+                        "endColumn": 53,
+                        "endOffset": 3852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 420,
+                    "startColumn": 4,
+                    "startOffset": 21848,
+                    "endColumn": 68,
+                    "endOffset": 21912
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 3857,
+                        "endColumn": 68,
+                        "endOffset": 3921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 421,
+                    "startColumn": 4,
+                    "startOffset": 21917,
+                    "endColumn": 48,
+                    "endOffset": 21961
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 3926,
+                        "endColumn": 48,
+                        "endOffset": 3970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 422,
+                    "startColumn": 4,
+                    "startOffset": 21966,
+                    "endColumn": 60,
+                    "endOffset": 22022
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 3975,
+                        "endColumn": 60,
+                        "endOffset": 4031
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 423,
+                    "startColumn": 4,
+                    "startOffset": 22027,
+                    "endColumn": 55,
+                    "endOffset": 22078
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 4036,
+                        "endColumn": 55,
+                        "endOffset": 4087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 424,
+                    "startColumn": 4,
+                    "startOffset": 22083,
+                    "endColumn": 82,
+                    "endOffset": 22161
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4092,
+                        "endColumn": 82,
+                        "endOffset": 4170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 425,
+                    "startColumn": 4,
+                    "startOffset": 22166,
+                    "endColumn": 55,
+                    "endOffset": 22217
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 4175,
+                        "endColumn": 55,
+                        "endOffset": 4226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 426,
+                    "startColumn": 4,
+                    "startOffset": 22222,
+                    "endColumn": 62,
+                    "endOffset": 22280
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4231,
+                        "endColumn": 62,
+                        "endOffset": 4289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 427,
+                    "startColumn": 4,
+                    "startOffset": 22285,
+                    "endColumn": 54,
+                    "endOffset": 22335
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 4294,
+                        "endColumn": 54,
+                        "endOffset": 4344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 428,
+                    "startColumn": 4,
+                    "startOffset": 22340,
+                    "endColumn": 81,
+                    "endOffset": 22417
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4349,
+                        "endColumn": 81,
+                        "endOffset": 4426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 429,
+                    "startColumn": 4,
+                    "startOffset": 22422,
+                    "endColumn": 64,
+                    "endOffset": 22482
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 4431,
+                        "endColumn": 64,
+                        "endOffset": 4491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 430,
+                    "startColumn": 4,
+                    "startOffset": 22487,
+                    "endColumn": 50,
+                    "endOffset": 22533
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 4496,
+                        "endColumn": 50,
+                        "endOffset": 4542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 431,
+                    "startColumn": 4,
+                    "startOffset": 22538,
+                    "endColumn": 57,
+                    "endOffset": 22591
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 4547,
+                        "endColumn": 57,
+                        "endOffset": 4600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 432,
+                    "startColumn": 4,
+                    "startOffset": 22596,
+                    "endColumn": 52,
+                    "endOffset": 22644
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 4605,
+                        "endColumn": 52,
+                        "endOffset": 4653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 433,
+                    "startColumn": 4,
+                    "startOffset": 22649,
+                    "endColumn": 69,
+                    "endOffset": 22714
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 4658,
+                        "endColumn": 69,
+                        "endOffset": 4723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 434,
+                    "startColumn": 4,
+                    "startOffset": 22719,
+                    "endColumn": 59,
+                    "endOffset": 22774
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 4728,
+                        "endColumn": 59,
+                        "endOffset": 4783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 435,
+                    "startColumn": 4,
+                    "startOffset": 22779,
+                    "endColumn": 50,
+                    "endOffset": 22825
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 4788,
+                        "endColumn": 50,
+                        "endOffset": 4834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 436,
+                    "startColumn": 4,
+                    "startOffset": 22830,
+                    "endColumn": 65,
+                    "endOffset": 22891
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 4839,
+                        "endColumn": 65,
+                        "endOffset": 4900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 437,
+                    "startColumn": 4,
+                    "startOffset": 22896,
+                    "endColumn": 58,
+                    "endOffset": 22950
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 4905,
+                        "endColumn": 58,
+                        "endOffset": 4959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 438,
+                    "startColumn": 4,
+                    "startOffset": 22955,
+                    "endColumn": 54,
+                    "endOffset": 23005
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 4964,
+                        "endColumn": 54,
+                        "endOffset": 5014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 439,
+                    "startColumn": 4,
+                    "startOffset": 23010,
+                    "endColumn": 50,
+                    "endOffset": 23056
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 5019,
+                        "endColumn": 50,
+                        "endOffset": 5065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 440,
+                    "startColumn": 4,
+                    "startOffset": 23061,
+                    "endColumn": 54,
+                    "endOffset": 23111
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 5070,
+                        "endColumn": 54,
+                        "endOffset": 5120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 441,
+                    "startColumn": 4,
+                    "startOffset": 23116,
+                    "endColumn": 66,
+                    "endOffset": 23178
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 5125,
+                        "endColumn": 66,
+                        "endOffset": 5187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 442,
+                    "startColumn": 4,
+                    "startOffset": 23183,
+                    "endColumn": 64,
+                    "endOffset": 23243
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 5192,
+                        "endColumn": 64,
+                        "endOffset": 5252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 443,
+                    "startColumn": 4,
+                    "startOffset": 23248,
+                    "endColumn": 95,
+                    "endOffset": 23339
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 95,
+                        "endOffset": 686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 444,
+                    "startColumn": 4,
+                    "startOffset": 23344,
+                    "endColumn": 58,
+                    "endOffset": 23398
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 58,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 445,
+                    "startColumn": 4,
+                    "startOffset": 23403,
+                    "endColumn": 48,
+                    "endOffset": 23447
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 856,
+                        "endColumn": 48,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 446,
+                    "startColumn": 4,
+                    "startOffset": 23452,
+                    "endColumn": 50,
+                    "endOffset": 23498
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 805,
+                        "endColumn": 50,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 447,
+                    "startColumn": 4,
+                    "startOffset": 23503,
+                    "endColumn": 70,
+                    "endOffset": 23569
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 70,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 448,
+                    "startColumn": 4,
+                    "startOffset": 23574,
+                    "endColumn": 56,
+                    "endOffset": 23626
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 742,
+                        "endColumn": 62,
+                        "endOffset": 800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 449,
+                    "startColumn": 4,
+                    "startOffset": 23631,
+                    "endColumn": 88,
+                    "endOffset": 23715
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 88,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 450,
+                    "startColumn": 4,
+                    "startOffset": 23720,
+                    "endColumn": 85,
+                    "endOffset": 23801
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 85,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 451,
+                    "startColumn": 4,
+                    "startOffset": 23806,
+                    "endColumn": 81,
+                    "endOffset": 23883
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 454,
+                        "endColumn": 81,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 452,
+                    "startColumn": 4,
+                    "startOffset": 23888,
+                    "endColumn": 50,
+                    "endOffset": 23934
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 50,
+                        "endOffset": 737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 453,
+                    "startColumn": 4,
+                    "startOffset": 23939,
+                    "endColumn": 68,
+                    "endOffset": 24003
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\com.pnikosis\\materialish-progress\\1.7\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 819,
+                        "endColumn": 68,
+                        "endOffset": 883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 454,
+                    "startColumn": 4,
+                    "startOffset": 24008,
+                    "endColumn": 52,
+                    "endOffset": 24056
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 150,
+                        "endColumn": 52,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 455,
+                    "startColumn": 4,
+                    "startOffset": 24061,
+                    "endColumn": 47,
+                    "endOffset": 24104
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1057,
+                        "endColumn": 47,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 456,
+                    "startColumn": 4,
+                    "startOffset": 24109,
+                    "endColumn": 50,
+                    "endOffset": 24155
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 953,
+                        "endColumn": 50,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 457,
+                    "startColumn": 4,
+                    "startOffset": 24160,
+                    "endColumn": 52,
+                    "endOffset": 24208
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1004,
+                        "endColumn": 52,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 458,
+                    "startColumn": 4,
+                    "startOffset": 24213,
+                    "endColumn": 46,
+                    "endOffset": 24255
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 906,
+                        "endColumn": 46,
+                        "endOffset": 948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 459,
+                    "startColumn": 4,
+                    "startOffset": 24260,
+                    "endColumn": 48,
+                    "endOffset": 24304
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1105,
+                        "endColumn": 48,
+                        "endOffset": 1149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 460,
+                    "startColumn": 4,
+                    "startOffset": 24309,
+                    "endColumn": 33,
+                    "endOffset": 24338
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\drag_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 33,
+                        "endOffset": 133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 461,
+                    "startColumn": 4,
+                    "startOffset": 24343,
+                    "endColumn": 101,
+                    "endOffset": 24440
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\pulltorefresh_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 782,
+                        "endColumn": 98,
+                        "endOffset": 879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 462,
+                    "startColumn": 4,
+                    "startOffset": 24445,
+                    "endColumn": 113,
+                    "endOffset": 24554
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\pulltorefresh_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 986,
+                        "endColumn": 110,
+                        "endOffset": 1095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 463,
+                    "startColumn": 4,
+                    "startOffset": 24559,
+                    "endColumn": 107,
+                    "endOffset": 24662
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\pulltorefresh_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 881,
+                        "endColumn": 104,
+                        "endOffset": 984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 464,
+                    "startColumn": 4,
+                    "startOffset": 24667,
+                    "endColumn": 60,
+                    "endOffset": 24723
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\pulltorefresh_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 475,
+                        "endColumn": 60,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 465,
+                    "startColumn": 4,
+                    "startOffset": 24728,
+                    "endColumn": 66,
+                    "endOffset": 24790
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\pulltorefresh_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 601,
+                        "endColumn": 69,
+                        "endOffset": 669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 466,
+                    "startColumn": 4,
+                    "startOffset": 24795,
+                    "endColumn": 64,
+                    "endOffset": 24855
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\pulltorefresh_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 533,
+                        "endColumn": 67,
+                        "endOffset": 599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 467,
+                    "startColumn": 4,
+                    "startOffset": 24860,
+                    "endColumn": 66,
+                    "endOffset": 24922
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\drag_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 66,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 468,
+                    "startColumn": 4,
+                    "startOffset": 24927,
+                    "endColumn": 57,
+                    "endOffset": 24980
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\drag_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 57,
+                        "endOffset": 318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 469,
+                    "startColumn": 4,
+                    "startOffset": 24985,
+                    "endColumn": 59,
+                    "endOffset": 25040
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\drag_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 138,
+                        "endColumn": 59,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 470,
+                    "startColumn": 4,
+                    "startOffset": 25045,
+                    "endLine": 476,
+                    "endColumn": 12,
+                    "endOffset": 25332
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 477,
+                    "startColumn": 4,
+                    "startOffset": 25337,
+                    "endLine": 479,
+                    "endColumn": 12,
+                    "endOffset": 25492
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 570,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 480,
+                    "startColumn": 4,
+                    "startOffset": 25497,
+                    "endLine": 481,
+                    "endColumn": 12,
+                    "endOffset": 25569
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 5257,
+                        "endLine": 92,
+                        "endColumn": 12,
+                        "endOffset": 5329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 482,
+                    "startColumn": 4,
+                    "startOffset": 25574,
+                    "endLine": 487,
+                    "endColumn": 12,
+                    "endOffset": 25871
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\swipelistview_string.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 3,
+                        "startOffset": 2148,
+                        "endLine": 58,
+                        "endColumn": 12,
+                        "endOffset": 2445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 488,
+                    "startColumn": 4,
+                    "startOffset": 25876,
+                    "endLine": 493,
+                    "endColumn": 12,
+                    "endOffset": 26193
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\swipelistview_string.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2451,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 2768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 494,
+                    "startColumn": 4,
+                    "startOffset": 26198,
+                    "endLine": 499,
+                    "endColumn": 12,
+                    "endOffset": 26512
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\swipelistview_string.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 2774,
+                        "endLine": 72,
+                        "endColumn": 12,
+                        "endOffset": 3088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 500,
+                    "startColumn": 4,
+                    "startOffset": 26517,
+                    "endLine": 511,
+                    "endColumn": 12,
+                    "endOffset": 27117
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 852,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 512,
+                    "startColumn": 4,
+                    "startOffset": 27122,
+                    "endLine": 519,
+                    "endColumn": 12,
+                    "endOffset": 27536
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1462,
+                        "endLine": 44,
+                        "endColumn": 12,
+                        "endOffset": 1876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 520,
+                    "startColumn": 4,
+                    "startOffset": 27541,
+                    "endLine": 524,
+                    "endColumn": 12,
+                    "endOffset": 27793
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 5334,
+                        "endLine": 97,
+                        "endColumn": 12,
+                        "endOffset": 5586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 525,
+                    "startColumn": 4,
+                    "startOffset": 27798,
+                    "endLine": 527,
+                    "endColumn": 12,
+                    "endOffset": 27963
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 5591,
+                        "endLine": 100,
+                        "endColumn": 12,
+                        "endOffset": 5756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 528,
+                    "startColumn": 4,
+                    "startOffset": 27968,
+                    "endLine": 532,
+                    "endColumn": 12,
+                    "endOffset": 28217
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 5761,
+                        "endLine": 105,
+                        "endColumn": 12,
+                        "endOffset": 6010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 533,
+                    "startColumn": 4,
+                    "startOffset": 28222,
+                    "endLine": 535,
+                    "endColumn": 12,
+                    "endOffset": 28372
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 6015,
+                        "endLine": 108,
+                        "endColumn": 12,
+                        "endOffset": 6165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 536,
+                    "startColumn": 4,
+                    "startOffset": 28377,
+                    "endLine": 543,
+                    "endColumn": 12,
+                    "endOffset": 28833
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 6170,
+                        "endLine": 116,
+                        "endColumn": 12,
+                        "endOffset": 6626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 544,
+                    "startColumn": 4,
+                    "startOffset": 28838,
+                    "endLine": 549,
+                    "endColumn": 12,
+                    "endOffset": 29233
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 6631,
+                        "endLine": 122,
+                        "endColumn": 12,
+                        "endOffset": 7026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 550,
+                    "startColumn": 4,
+                    "startOffset": 29238,
+                    "endLine": 552,
+                    "endColumn": 12,
+                    "endOffset": 29340
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 553,
+                    "startColumn": 4,
+                    "startOffset": 29345,
+                    "endLine": 561,
+                    "endColumn": 12,
+                    "endOffset": 29929
+                },
+                "from": {
+                    "file": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1882,
+                        "endLine": 54,
+                        "endColumn": 12,
+                        "endOffset": 2466
+                    }
+                }
+            }
+        ]
+    }
+]

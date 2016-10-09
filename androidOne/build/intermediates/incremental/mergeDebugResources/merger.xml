@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="0.4.0$Generated" generated="true"><source path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\com.alipay.euler\andfix\0.4.0\res"/></dataSet><dataSet config="0.9.0$Generated" generated="true"><source path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.9.0\res"/></dataSet><dataSet config="21.0.3$Generated" generated="true"><source path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\res"/></dataSet><dataSet config="0.9.0$Generated" generated="true"><source path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.9.0\res"/></dataSet><dataSet config="0.9.0$Generated" generated="true"><source path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.9.0\res"/></dataSet><dataSet config="0.9.0$Generated" generated="true"><source path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.9.0\res"/></dataSet><dataSet config="0.9.0$Generated" generated="true"><source path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.9.0\res"/></dataSet><dataSet config="1.7$Generated" generated="true"><source path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.7\res"/></dataSet><dataSet config="unspecified$Generated" generated="true"><source path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res"/></dataSet><dataSet config="unspecified$Generated" generated="true"><source path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\oneCore\unspecified\res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="D:\demo\studioOne\androidOne\src\main\res"/><source path="D:\demo\studioOne\androidOne\build\generated\res\rs\debug"/><source path="D:\demo\studioOne\androidOne\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\demo\studioOne\androidOne\src\debug\res"/></dataSet><dataSet config="0.4.0" from-dependency="true" generated-set="0.4.0$Generated"><source path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\com.alipay.euler\andfix\0.4.0\res"/></dataSet><dataSet config="0.9.0" from-dependency="true" generated-set="0.9.0$Generated"><source path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.9.0\res"/></dataSet><dataSet config="21.0.3" from-dependency="true" generated-set="21.0.3$Generated"><source path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\res"/></dataSet><dataSet config="0.9.0" from-dependency="true" generated-set="0.9.0$Generated"><source path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.9.0\res"/></dataSet><dataSet config="0.9.0" from-dependency="true" generated-set="0.9.0$Generated"><source path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.9.0\res"/></dataSet><dataSet config="0.9.0" from-dependency="true" generated-set="0.9.0$Generated"><source path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.9.0\res"><file path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.9.0\res\values\values.xml" qualifiers=""><declare-styleable name="GenericDraweeView"><attr format="integer" name="fadeDuration"/><attr format="float" name="viewAspectRatio"/><attr format="reference" name="placeholderImage"/><attr name="placeholderImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="reference" name="retryImage"/><attr name="retryImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="reference" name="failureImage"/><attr name="failureImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="reference" name="progressBarImage"/><attr name="progressBarImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="integer" name="progressBarAutoRotateInterval"/><attr name="actualImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="reference" name="backgroundImage"/><attr format="reference" name="overlayImage"/><attr format="reference" name="pressedStateOverlayImage"/><attr format="boolean" name="roundAsCircle"/><attr format="dimension" name="roundedCornerRadius"/><attr format="boolean" name="roundTopLeft"/><attr format="boolean" name="roundTopRight"/><attr format="boolean" name="roundBottomRight"/><attr format="boolean" name="roundBottomLeft"/><attr format="color" name="roundWithOverlayColor"/><attr format="dimension" name="roundingBorderWidth"/><attr format="color" name="roundingBorderColor"/><attr format="dimension" name="roundingBorderPadding"/></declare-styleable></file></source></dataSet><dataSet config="0.9.0" from-dependency="true" generated-set="0.9.0$Generated"><source path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.9.0\res"/></dataSet><dataSet config="1.7" from-dependency="true" generated-set="1.7$Generated"><source path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.7\res"><file path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.7\res\values\values.xml" qualifiers=""><string name="default_progressbar">Default Progressbar:</string><string name="app_name">Library</string><declare-styleable name="ProgressWheel"><attr format="boolean" name="matProg_progressIndeterminate"/><attr format="color" name="matProg_barColor"/><attr format="color" name="matProg_rimColor"/><attr format="dimension" name="matProg_rimWidth"/><attr format="float" name="matProg_spinSpeed"/><attr format="integer" name="matProg_barSpinCycleTime"/><attr format="dimension" name="matProg_circleRadius"/><attr format="boolean" name="matProg_fillRadius"/><attr format="dimension" name="matProg_barWidth"/><attr format="boolean" name="matProg_linearProgress"/></declare-styleable></file></source></dataSet><dataSet config="unspecified" from-dependency="true" generated-set="unspecified$Generated"><source path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res"><file name="btg_btn_arrow" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable\btg_btn_arrow.xml" qualifiers="" type="drawable"/><file name="btg_btn_blue_rect" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable\btg_btn_blue_rect.xml" qualifiers="" type="drawable"/><file name="btg_btn_cross" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable\btg_btn_cross.xml" qualifiers="" type="drawable"/><file name="btg_btn_exchange" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable\btg_btn_exchange.xml" qualifiers="" type="drawable"/><file name="btg_btn_fab" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable\btg_btn_fab.xml" qualifiers="" type="drawable"/><file name="btg_btn_priority_0" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable\btg_btn_priority_0.xml" qualifiers="" type="drawable"/><file name="btg_btn_priority_1" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable\btg_btn_priority_1.xml" qualifiers="" type="drawable"/><file name="btg_btn_priority_2" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable\btg_btn_priority_2.xml" qualifiers="" type="drawable"/><file name="btg_btn_priority_3" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable\btg_btn_priority_3.xml" qualifiers="" type="drawable"/><file name="btg_btn_publish" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable\btg_btn_publish.xml" qualifiers="" type="drawable"/><file name="btg_btn_report" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable\btg_btn_report.xml" qualifiers="" type="drawable"/><file name="btg_btn_tick" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable\btg_btn_tick.xml" qualifiers="" type="drawable"/><file name="btg_btn_user" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable\btg_btn_user.xml" qualifiers="" type="drawable"/><file name="btg_btn_white_rect" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable\btg_btn_white_rect.xml" qualifiers="" type="drawable"/><file name="btg_icon_tag_priority" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable\btg_icon_tag_priority.xml" qualifiers="" type="drawable"/><file name="btg_text_black" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable\btg_text_black.xml" qualifiers="" type="drawable"/><file name="btg_text_white" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable\btg_text_white.xml" qualifiers="" type="drawable"/><file name="btg_bg_dialog" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-nodpi-v4\btg_bg_dialog.9.png" qualifiers="nodpi-v4" type="drawable"/><file name="btg_bg_guide" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-nodpi-v4\btg_bg_guide.9.png" qualifiers="nodpi-v4" type="drawable"/><file name="btg_btn_blue_rect_normal" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-nodpi-v4\btg_btn_blue_rect_normal.9.png" qualifiers="nodpi-v4" type="drawable"/><file name="btg_btn_blue_rect_pressed" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-nodpi-v4\btg_btn_blue_rect_pressed.9.png" qualifiers="nodpi-v4" type="drawable"/><file name="btg_btn_white_rect_normal" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-nodpi-v4\btg_btn_white_rect_normal.9.png" qualifiers="nodpi-v4" type="drawable"/><file name="btg_btn_white_rect_pressed" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-nodpi-v4\btg_btn_white_rect_pressed.9.png" qualifiers="nodpi-v4" type="drawable"/><file name="btg_line_horizontal" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-nodpi-v4\btg_line_horizontal.9.png" qualifiers="nodpi-v4" type="drawable"/><file name="btg_line_vertical" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-nodpi-v4\btg_line_vertical.9.png" qualifiers="nodpi-v4" type="drawable"/><file name="btg_bg_tag_left" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_bg_tag_left.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_bg_tag_right" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_bg_tag_right.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_account" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_account.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_arrow_normal" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_arrow_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_arrow_selected" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_arrow_selected.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_assistivebutton_submit" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_assistivebutton_submit.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_assistivebutton_submit_pressed" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_assistivebutton_submit_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_captcha" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_captcha.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_checkmark" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_checkmark.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_cross_normal" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_cross_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_cross_pressed" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_cross_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_exchange_normal" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_exchange_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_exchange_pressed" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_exchange_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_invoker_normal" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_invoker_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_invoker_pressed" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_invoker_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_issue_type_bug" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_issue_type_bug.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_issue_type_improve" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_issue_type_improve.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_password" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_password.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_priority_0_full" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_priority_0_full.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_priority_0_normal" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_priority_0_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_priority_0_selected" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_priority_0_selected.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_priority_1_full" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_priority_1_full.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_priority_1_normal" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_priority_1_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_priority_1_selected" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_priority_1_selected.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_priority_2_full" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_priority_2_full.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_priority_2_normal" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_priority_2_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_priority_2_selected" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_priority_2_selected.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_priority_3_full" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_priority_3_full.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_priority_3_normal" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_priority_3_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_priority_3_selected" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_priority_3_selected.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_report_normal" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_report_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_report_pressed" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_report_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_tag_pin" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_tag_pin.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_tick_normal" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_tick_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_tick_pressed" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_tick_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_tips_tag_1" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_tips_tag_1.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_tips_tag_2" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_tips_tag_2.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_tips_tag_3" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_tips_tag_3.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_user_normal" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_user_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_icon_user_pressed" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_icon_user_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_logo" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\btg_logo.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xhdpi-v4\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btg_bg_tag_left" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xxhdpi-v4\btg_bg_tag_left.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="btg_bg_tag_right" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xxhdpi-v4\btg_bg_tag_right.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\drawable-xxhdpi-v4\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="btg_activity" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\layout\btg_activity.xml" qualifiers="" type="layout"/><file name="btg_fragment_guide" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\layout\btg_fragment_guide.xml" qualifiers="" type="layout"/><file name="btg_fragment_login" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\layout\btg_fragment_login.xml" qualifiers="" type="layout"/><file name="btg_fragment_report" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\layout\btg_fragment_report.xml" qualifiers="" type="layout"/><file name="btg_fragment_tag_edit" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\layout\btg_fragment_tag_edit.xml" qualifiers="" type="layout"/><file name="btg_view_fab_action" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\layout\btg_view_fab_action.xml" qualifiers="" type="layout"/><file name="btg_view_fab_bg" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\layout\btg_view_fab_bg.xml" qualifiers="" type="layout"/><file name="btg_view_global_progress" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\layout\btg_view_global_progress.xml" qualifiers="" type="layout"/><file name="btg_view_member" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\layout\btg_view_member.xml" qualifiers="" type="layout"/><file name="btg_view_priority_pick" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\layout\btg_view_priority_pick.xml" qualifiers="" type="layout"/><file name="btg_view_tag_state" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\layout\btg_view_tag_state.xml" qualifiers="" type="layout"/><file path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\values\values.xml" qualifiers=""><dimen name="btg_login_dialog_width">297dp</dimen><dimen name="btg_report_dialog_picker_height">105dp</dimen><dimen name="btg_guide_view_width">240dp</dimen><string name="btg_login_password_empty">Password should not be empty!</string><string name="btg_report_start">Start Describe</string><dimen name="btg_guide_button_height">30dp</dimen><dimen name="btg_login_captcha_width">80dp</dimen><string name="btg_tag_num_max">Add three tags at most</string><dimen name="btg_tag_height_max">50dp</dimen><dimen name="btg_report_member_icon_size">44dp</dimen><string name="btg_login_password">Password</string><dimen name="btg_global_font_large">14sp</dimen><color name="btg_global_light_white">#ccffffff</color><dimen name="btg_login_margin_top">4dp</dimen><string name="btg_tag_num_min">Add one tag at least</string><dimen name="btg_global_margin_standard">10dp</dimen><dimen name="btg_fab_menu_base_size">50dp</dimen><string name="btg_global_got_it">Got it!</string><string-array name="btg_report_tag_priority_name">
+        <item>Trivial</item>
+        <item>Minor</item>
+        <item>Major</item>
+        <item>Blocker</item>
+    </string-array><string name="btg_logout_title">Options</string><string name="btg_report_tag_bug">Bug</string><string name="btg_login_username_empty">Account should not be empty!</string><color name="btg_global_black">#ff333333</color><dimen name="btg_report_member_item_width">67dp</dimen><declare-styleable name="BtgHorizontalListView"><attr format="dimension" name="btg_dividerWidth"/><attr name="android:divider"/><attr name="android:requiresFadingEdge"/><attr name="android:fadingEdgeLength"/></declare-styleable><string name="btg_login_captcha_needed">Captcha needed!</string><dimen name="btg_report_member_item_height">75dp</dimen><string name="btg_login_succeed">Sign in succeed!</string><string name="btg_login_failed">Sign in failed!</string><string name="btg_logout_do">Sign out</string><dimen name="btg_global_font_standard">11sp</dimen><dimen name="btg_report_dialog_width">290dp</dimen><dimen name="btg_fab_menu_item_size">50dp</dimen><dimen name="btg_global_margin_great">20dp</dimen><dimen name="btg_global_font_less_big">12sp</dimen><string name="btg_report_tag_improve">Feature</string><dimen name="btg_login_logo_width">105dp</dimen><string name="btg_tag_menu_info">Tag info</string><string name="btg_logout_my_issue">My issues</string><color name="btg_global_gray">#ff727272</color><string name="btg_global_error">Error! Try Again!</string><dimen name="btg_global_font_grand">20sp</dimen><style name="btg_progress_dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style><dimen name="btg_global_font_great">17sp</dimen><style name="btg_global_text_content">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/btg_global_black</item>
+        <item name="android:textSize">@dimen/btg_global_font_standard</item>
+    </style><color name="btg_global_translucent_white">#ccf3f3f3</color><dimen name="btg_report_tag_assignee_size">20dp</dimen><style name="btg_tag_priority_text_light_content" parent="btg_global_text_content">
+        <item name="android:textColor">@color/btg_global_gray</item>
+        <item name="android:padding">@dimen/btg_global_margin_tiny</item>
+        <item name="android:drawablePadding">@dimen/btg_global_margin_tiny</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style><dimen name="btg_global_font_big">13sp</dimen><declare-styleable name="BtgRippleView"><attr format="reference" name="btg_rv_background"/><attr format="reference" name="btg_rv_foreground"/></declare-styleable><dimen name="btg_fab_menu_item_spacing">0dp</dimen><string name="btg_logout_confirm">Sure to sign out?</string><string name="btg_report_discard_alert">Sure to discard?</string><style name="btg_global_text_gray" parent="btg_global_text_content">
+        <item name="android:textColor">@color/btg_global_gray</item>
+    </style><dimen name="btg_tag_ripple_size">20dp</dimen><dimen name="btg_global_margin_tiny">5dp</dimen><dimen name="btg_tag_ripple_foreground_size">15dp</dimen><string name="btg_tag_menu_delete">Delete</string><dimen name="btg_report_dialog_margin_top">70dp</dimen><string name="btg_guide_sub_3">Long press tag to edit or delete</string><string name="btg_guide_sub_2">Tap tag to flip</string><string name="btg_report_tag_hint">issue description</string><dimen name="btg_fab_menu_item_overshoot">15dp</dimen><string name="btg_guide_sub_1">Tap screen to add a tag</string><string name="btg_guide_sub_0">Tagging tips</string><dimen name="btg_global_margin_large">15dp</dimen><dimen name="btg_report_dialog_height">215dp</dimen><string name="btg_login_do">Sign in</string><array name="btg_tag_priority_res">
+        <item>@drawable/btg_icon_priority_0_full</item>
+        <item>@drawable/btg_icon_priority_1_full</item>
+        <item>@drawable/btg_icon_priority_2_full</item>
+        <item>@drawable/btg_icon_priority_3_full</item>
+    </array><dimen name="btg_report_dialog_btn_width">130dp</dimen><string name="btg_login_captcha">Captcha</string><string name="btg_global_confirm">OK</string><dimen name="btg_fab_action_offset">8dp</dimen><dimen name="btg_report_top_height">45dp</dimen><style name="BtgAlertDialog" parent="android:Theme.Dialog">
+    </style><dimen name="btg_login_logo_height">53dp</dimen><string name="btg_tag_menu_edit">Edit</string><dimen name="btg_report_dialog_btn_height">35dp</dimen><style name="btg_global_text_btn_negative">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@drawable/btg_text_black</item>
+        <item name="android:textSize">@dimen/btg_global_font_great</item>
+    </style><dimen name="btg_login_text_height">30dp</dimen><string name="btg_login_progress">Sign in​</string><dimen name="btg_fab_action_size">56dp</dimen><dimen name="btg_report_tag_state_text_width">35dp</dimen><string name="btg_global_cancel">Cancel</string><string name="btg_login_username">Account</string><style name="btg_global_text_btn_positive" parent="btg_global_text_btn_negative">
+        <item name="android:textColor">@drawable/btg_text_white</item>
+    </style></file><file path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\values-v11\values-v11.xml" qualifiers="v11"><style name="BtgAlertDialog" parent="android:Theme.Holo.Light.Dialog">
+    </style></file><file path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\values-zh-rCN\values-zh-rCN.xml" qualifiers="zh-rCN"><string name="btg_login_password">密码</string><string name="btg_global_error">错误请重试！</string><string name="btg_login_failed">登录失败，请重试</string><string name="btg_report_tag_improve">改进</string><string name="btg_tag_num_max">最多添加3个标签</string><string name="btg_logout_my_issue">我的问题</string><string name="btg_global_got_it">知道了！</string><string name="btg_tag_menu_delete">删除</string><string name="btg_tag_menu_edit">编辑</string><string name="btg_report_tag_bug">错误</string><string name="btg_login_captcha_needed">验证码不能为空</string><string name="btg_report_tag_hint">文字描述</string><string name="btg_login_password_empty">密码不能为空</string><string name="btg_guide_sub_1">单击屏幕选择标签位置</string><string name="btg_guide_sub_2">单击标签改变方向</string><string name="btg_login_captcha">验证码</string><string name="btg_guide_sub_3">长按标签可编辑或删除</string><string name="btg_global_cancel">取消</string><string-array name="btg_report_tag_priority_name">
+        <item>低</item>
+        <item>普通</item>
+        <item>高</item>
+        <item>紧急</item>
+    </string-array><string name="btg_logout_confirm">确定退出吗？</string><string name="btg_login_succeed">登录成功！</string><string name="btg_logout_do">退出登录</string><string name="btg_report_start">开始描述问题</string><string name="btg_global_confirm">确定</string><string name="btg_logout_title">选择操作</string><string name="btg_login_username_empty">帐号不能为空</string><string name="btg_login_do">登录</string><string name="btg_login_username">帐号</string><string name="btg_guide_sub_0">标签要这么玩</string><string name="btg_report_discard_alert">确定要放弃提交吗？</string><string name="btg_tag_menu_info">标签信息</string><string name="btg_tag_num_min">至少添加1个标签</string><array name="btg_tag_priority_res">
+        <item>@drawable/btg_icon_priority_0_full</item>
+        <item>@drawable/btg_icon_priority_1_full</item>
+        <item>@drawable/btg_icon_priority_2_full</item>
+        <item>@drawable/btg_icon_priority_3_full</item>
+    </array><string name="btg_login_progress">正在登录​</string></file><file path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\bugtags\unspecified\res\values-zh-rTW\values-zh-rTW.xml" qualifiers="zh-rTW"><string name="btg_login_captcha">驗證碼</string><string name="btg_global_cancel">取消</string><string name="btg_login_succeed">登錄成功！</string><string name="btg_tag_menu_delete">删除</string><string name="btg_global_error">錯誤請重試！</string><string name="btg_logout_do">退出登錄</string><string name="btg_logout_title">選擇操作</string><string name="btg_report_discard_alert">確定要放棄提交嗎？</string><string name="btg_logout_confirm">確定退出嗎？</string><string name="btg_login_password_empty">密碼不能為空</string><string name="btg_tag_menu_edit">編輯</string><string name="btg_tag_menu_info">標籤信息</string><string name="btg_login_password">密碼</string><array name="btg_tag_priority_res">
+        <item>@drawable/btg_icon_priority_0_full</item>
+        <item>@drawable/btg_icon_priority_1_full</item>
+        <item>@drawable/btg_icon_priority_2_full</item>
+        <item>@drawable/btg_icon_priority_3_full</item>
+    </array><string name="btg_report_start">開始描述問題</string><string name="btg_report_tag_bug">錯誤</string><string name="btg_report_tag_improve">改進</string><string name="btg_logout_my_issue">我的問題</string><string name="btg_global_confirm">確定</string><string name="btg_login_username_empty">帳號不能為空</string><string name="btg_login_captcha_needed">驗證碼不能為空</string><string name="btg_tag_num_max">最多添加3個標籤</string><string name="btg_login_do">登錄</string><string name="btg_guide_sub_2">單擊標籤改變方向</string><string name="btg_report_tag_hint">問題描述</string><string name="btg_guide_sub_1">單擊屏幕選擇標籤位置</string><string name="btg_guide_sub_3">長按標籤可編輯或刪除</string><string-array name="btg_report_tag_priority_name">
+        <item>低</item>
+        <item>普通</item>
+        <item>高</item>
+        <item>紧急</item>
+    </string-array><string name="btg_login_username">帳號</string><string name="btg_guide_sub_0">標籤要這麼玩</string><string name="btg_global_got_it">知道了！</string><string name="btg_login_failed">登錄失敗，請重試</string><string name="btg_login_progress">正在登錄​</string><string name="btg_tag_num_min">至少添加1個標籤</string></file></source></dataSet><dataSet config="unspecified" from-dependency="true" generated-set="unspecified$Generated"><source path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\oneCore\unspecified\res"><file name="ic_launcher" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\oneCore\unspecified\res\drawable-hdpi-v4\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\oneCore\unspecified\res\drawable-ldpi-v4\ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_launcher" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\oneCore\unspecified\res\drawable-mdpi-v4\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\oneCore\unspecified\res\drawable-xhdpi-v4\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\oneCore\unspecified\res\values\values.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><string name="app_name">oneCore</string><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style></file><file path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\oneCore\unspecified\res\values-v11\values-v11.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="D:\demo\studioOne\androidOne\build\intermediates\exploded-aar\studioOne\oneCore\unspecified\res\values-v14\values-v14.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file></source></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\demo\studioOne\androidOne\src\main\res"><file name="slide_in_from_bottom" path="D:\demo\studioOne\androidOne\src\main\res\anim\slide_in_from_bottom.xml" qualifiers="" type="anim"/><file name="slide_in_from_top" path="D:\demo\studioOne\androidOne\src\main\res\anim\slide_in_from_top.xml" qualifiers="" type="anim"/><file name="slide_out_to_bottom" path="D:\demo\studioOne\androidOne\src\main\res\anim\slide_out_to_bottom.xml" qualifiers="" type="anim"/><file name="slide_out_to_top" path="D:\demo\studioOne\androidOne\src\main\res\anim\slide_out_to_top.xml" qualifiers="" type="anim"/><file name="pulltorefresh_bg_bottom" path="D:\demo\studioOne\androidOne\src\main\res\drawable\pulltorefresh_bg_bottom.xml" qualifiers="" type="drawable"/><file name="pulltorefresh_bg_top" path="D:\demo\studioOne\androidOne\src\main\res\drawable\pulltorefresh_bg_top.xml" qualifiers="" type="drawable"/><file name="selector_menu_cart" path="D:\demo\studioOne\androidOne\src\main\res\drawable\selector_menu_cart.xml" qualifiers="" type="drawable"/><file name="selector_menu_category" path="D:\demo\studioOne\androidOne\src\main\res\drawable\selector_menu_category.xml" qualifiers="" type="drawable"/><file name="selector_menu_collection" path="D:\demo\studioOne\androidOne\src\main\res\drawable\selector_menu_collection.xml" qualifiers="" type="drawable"/><file name="selector_menu_home" path="D:\demo\studioOne\androidOne\src\main\res\drawable\selector_menu_home.xml" qualifiers="" type="drawable"/><file name="selector_menu_member" path="D:\demo\studioOne\androidOne\src\main\res\drawable\selector_menu_member.xml" qualifiers="" type="drawable"/><file name="selector_menu_txt" path="D:\demo\studioOne\androidOne\src\main\res\drawable\selector_menu_txt.xml" qualifiers="" type="drawable"/><file name="sidebar_background" path="D:\demo\studioOne\androidOne\src\main\res\drawable\sidebar_background.xml" qualifiers="" type="drawable"/><file name="slidingtab_background_tab" path="D:\demo\studioOne\androidOne\src\main\res\drawable\slidingtab_background_tab.xml" qualifiers="" type="drawable"/><file name="wheel_bg" path="D:\demo\studioOne\androidOne\src\main\res\drawable\wheel_bg.xml" qualifiers="" type="drawable"/><file name="wheel_val" path="D:\demo\studioOne\androidOne\src\main\res\drawable\wheel_val.xml" qualifiers="" type="drawable"/><file name="ad" path="D:\demo\studioOne\androidOne\src\main\res\drawable-hdpi\ad.png" qualifiers="hdpi-v4" type="drawable"/><file name="background_item" path="D:\demo\studioOne\androidOne\src\main\res\drawable-hdpi\background_item.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="drag" path="D:\demo\studioOne\androidOne\src\main\res\drawable-hdpi\drag.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="drag_delete_x" path="D:\demo\studioOne\androidOne\src\main\res\drawable-hdpi\drag_delete_x.png" qualifiers="hdpi-v4" type="drawable"/><file name="drag_icon" path="D:\demo\studioOne\androidOne\src\main\res\drawable-hdpi\drag_icon.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="drawer_menu" path="D:\demo\studioOne\androidOne\src\main\res\drawable-hdpi\drawer_menu.png" qualifiers="hdpi-v4" type="drawable"/><file name="drawer_shadow" path="D:\demo\studioOne\androidOne\src\main\res\drawable-hdpi\drawer_shadow.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="guidepage_1" path="D:\demo\studioOne\androidOne\src\main\res\drawable-hdpi\guidepage_1.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="guidepage_2" path="D:\demo\studioOne\androidOne\src\main\res\drawable-hdpi\guidepage_2.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="guidepage_3" path="D:\demo\studioOne\androidOne\src\main\res\drawable-hdpi\guidepage_3.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="guidepage_4" path="D:\demo\studioOne\androidOne\src\main\res\drawable-hdpi\guidepage_4.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\demo\studioOne\androidOne\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="page_indicator" path="D:\demo\studioOne\androidOne\src\main\res\drawable-hdpi\page_indicator.png" qualifiers="hdpi-v4" type="drawable"/><file name="page_indicator_focused" path="D:\demo\studioOne\androidOne\src\main\res\drawable-hdpi\page_indicator_focused.png" qualifiers="hdpi-v4" type="drawable"/><file name="pulltorefresh_default_flip" path="D:\demo\studioOne\androidOne\src\main\res\drawable-hdpi\pulltorefresh_default_flip.png" qualifiers="hdpi-v4" type="drawable"/><file name="pulltorefresh_default_rotate" path="D:\demo\studioOne\androidOne\src\main\res\drawable-hdpi\pulltorefresh_default_rotate.png" qualifiers="hdpi-v4" type="drawable"/><file name="pulltorefresh_indicator_arrow" path="D:\demo\studioOne\androidOne\src\main\res\drawable-hdpi\pulltorefresh_indicator_arrow.png" qualifiers="hdpi-v4" type="drawable"/><file name="search_clear_pressed" path="D:\demo\studioOne\androidOne\src\main\res\drawable-hdpi\search_clear_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="waterfall_arrow" path="D:\demo\studioOne\androidOne\src\main\res\drawable-hdpi\waterfall_arrow.png" qualifiers="hdpi-v4" type="drawable"/><file name="waterfall_item_bg" path="D:\demo\studioOne\androidOne\src\main\res\drawable-hdpi\waterfall_item_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\demo\studioOne\androidOne\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="bottom_bg" path="D:\demo\studioOne\androidOne\src\main\res\drawable-xhdpi\bottom_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_cart" path="D:\demo\studioOne\androidOne\src\main\res\drawable-xhdpi\btn_cart.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_cart_press" path="D:\demo\studioOne\androidOne\src\main\res\drawable-xhdpi\btn_cart_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_category" path="D:\demo\studioOne\androidOne\src\main\res\drawable-xhdpi\btn_category.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_category_press" path="D:\demo\studioOne\androidOne\src\main\res\drawable-xhdpi\btn_category_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_collection" path="D:\demo\studioOne\androidOne\src\main\res\drawable-xhdpi\btn_collection.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_collection_press" path="D:\demo\studioOne\androidOne\src\main\res\drawable-xhdpi\btn_collection_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_home" path="D:\demo\studioOne\androidOne\src\main\res\drawable-xhdpi\btn_home.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_home_press" path="D:\demo\studioOne\androidOne\src\main\res\drawable-xhdpi\btn_home_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_member" path="D:\demo\studioOne\androidOne\src\main\res\drawable-xhdpi\btn_member.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_member_press" path="D:\demo\studioOne\androidOne\src\main\res\drawable-xhdpi\btn_member_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\demo\studioOne\androidOne\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\demo\studioOne\androidOne\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="cart_layout" path="D:\demo\studioOne\androidOne\src\main\res\layout\cart_layout.xml" qualifiers="" type="layout"/><file name="category_layout" path="D:\demo\studioOne\androidOne\src\main\res\layout\category_layout.xml" qualifiers="" type="layout"/><file name="collection_layout" path="D:\demo\studioOne\androidOne\src\main\res\layout\collection_layout.xml" qualifiers="" type="layout"/><file name="home_layout" path="D:\demo\studioOne\androidOne\src\main\res\layout\home_layout.xml" qualifiers="" type="layout"/><file name="layout_base" path="D:\demo\studioOne\androidOne\src\main\res\layout\layout_base.xml" qualifiers="" type="layout"/><file name="layout_demo_photo" path="D:\demo\studioOne\androidOne\src\main\res\layout\layout_demo_photo.xml" qualifiers="" type="layout"/><file name="layout_dialog" path="D:\demo\studioOne\androidOne\src\main\res\layout\layout_dialog.xml" qualifiers="" type="layout"/><file name="layout_dialog_bottom" path="D:\demo\studioOne\androidOne\src\main\res\layout\layout_dialog_bottom.xml" qualifiers="" type="layout"/><file name="layout_dialog_drag" path="D:\demo\studioOne\androidOne\src\main\res\layout\layout_dialog_drag.xml" qualifiers="" type="layout"/><file name="layout_dialog_drag_item" path="D:\demo\studioOne\androidOne\src\main\res\layout\layout_dialog_drag_item.xml" qualifiers="" type="layout"/><file name="layout_dialog_loading" path="D:\demo\studioOne\androidOne\src\main\res\layout\layout_dialog_loading.xml" qualifiers="" type="layout"/><file name="layout_dialog_menu" path="D:\demo\studioOne\androidOne\src\main\res\layout\layout_dialog_menu.xml" qualifiers="" type="layout"/><file name="layout_dialog_menu_item" path="D:\demo\studioOne\androidOne\src\main\res\layout\layout_dialog_menu_item.xml" qualifiers="" type="layout"/><file name="layout_dialog_message" path="D:\demo\studioOne\androidOne\src\main\res\layout\layout_dialog_message.xml" qualifiers="" type="layout"/><file name="layout_guide" path="D:\demo\studioOne\androidOne\src\main\res\layout\layout_guide.xml" qualifiers="" type="layout"/><file name="layout_guide_item1" path="D:\demo\studioOne\androidOne\src\main\res\layout\layout_guide_item1.xml" qualifiers="" type="layout"/><file name="layout_guide_item2" path="D:\demo\studioOne\androidOne\src\main\res\layout\layout_guide_item2.xml" qualifiers="" type="layout"/><file name="layout_guide_item3" path="D:\demo\studioOne\androidOne\src\main\res\layout\layout_guide_item3.xml" qualifiers="" type="layout"/><file name="layout_guide_item4" path="D:\demo\studioOne\androidOne\src\main\res\layout\layout_guide_item4.xml" qualifiers="" type="layout"/><file name="layout_listview_item" path="D:\demo\studioOne\androidOne\src\main\res\layout\layout_listview_item.xml" qualifiers="" type="layout"/><file name="layout_main" path="D:\demo\studioOne\androidOne\src\main\res\layout\layout_main.xml" qualifiers="" type="layout"/><file name="layout_splash" path="D:\demo\studioOne\androidOne\src\main\res\layout\layout_splash.xml" qualifiers="" type="layout"/><file name="more_layout" path="D:\demo\studioOne\androidOne\src\main\res\layout\more_layout.xml" qualifiers="" type="layout"/><file name="pay_result" path="D:\demo\studioOne\androidOne\src\main\res\layout\pay_result.xml" qualifiers="" type="layout"/><file name="pulltorefresh_header" path="D:\demo\studioOne\androidOne\src\main\res\layout\pulltorefresh_header.xml" qualifiers="" type="layout"/><file name="slidingmenu_frame" path="D:\demo\studioOne\androidOne\src\main\res\layout\slidingmenu_frame.xml" qualifiers="" type="layout"/><file name="slidingmenu_main" path="D:\demo\studioOne\androidOne\src\main\res\layout\slidingmenu_main.xml" qualifiers="" type="layout"/><file name="drag_mode_menu" path="D:\demo\studioOne\androidOne\src\main\res\menu\drag_mode_menu.xml" qualifiers="" type="menu"/><file name="menu" path="D:\demo\studioOne\androidOne\src\main\res\menu\menu.xml" qualifiers="" type="menu"/><file path="D:\demo\studioOne\androidOne\src\main\res\values\colors.xml" qualifiers=""><color name="bottom_line_color">#c4c7cc</color><color name="bg_color">#f3f3f3</color><color name="bottom_txt_select">#EB008F</color><color name="navpage">#FFE1E8EB</color><color name="transparent">#00000000</color><color name="head_bg_color">#EB008F</color><color name="bottom_txt_normal">#cccccc</color><color name="white">#FFFFFF</color><color name="black">#000000</color></file><file path="D:\demo\studioOne\androidOne\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="D:\demo\studioOne\androidOne\src\main\res\values\drag_strings.xml" qualifiers=""><string name="select_drag_init_mode">Start-drag modes</string><item name="click_remove" type="id"/><string-array name="remove_mode_labels">
+        <item>Click remove</item>
+        <item>Fling remove</item>
+    </string-array><string-array name="jazz_artist_names">
+        <item>PullToRefreshActivity</item>
+        <item>DrawerMenuActivity</item>
+        <item>TimeWheelActivity</item>
+        <item>WaterfallActivity</item>
+        <item>Miles Davis</item>
+        <item>Wayne Shorter</item>
+        <item>Michael Brecker</item>
+        <item>Herbie Hancock</item>
+        <item>Joe Zawinul</item>
+        <item>Brian Blade</item>
+        <item>Jeff Ballard</item>
+        <item>Larry Grenadier</item>
+        <item>Keith Jarrett</item>
+        <item>McCoy Tyner</item>
+        <item>Stephon Harris</item>
+        <item>Mark Turner</item>
+    </string-array><string-array name="enables_labels">
+        <item>Enable drag</item>
+        <item>Enable sort</item>
+        <item>Enable remove</item>
+    </string-array><declare-styleable name="DragSortListView">
+        <attr format="dimension" name="collapsed_height"/>
+        <attr format="float" name="drag_scroll_start"/>
+        <attr format="float" name="max_drag_scroll_speed"/>
+        <attr format="color" name="float_background_color"/>
+        <attr name="remove_mode">
+            <enum name="clickRemove" value="0"/>
+            <enum name="flingRemove" value="1"/>
+        </attr>
+        <attr format="boolean" name="track_drag_sort"/>
+        <attr format="float" name="float_alpha"/>
+        <attr format="float" name="slide_shuffle_speed"/>
+        <attr format="integer" name="remove_animation_duration"/>
+        <attr format="integer" name="drop_animation_duration"/>
+        <attr format="boolean" name="drag_enabled"/>
+        <attr format="boolean" name="sort_enabled"/>
+        <attr format="boolean" name="remove_enabled"/>
+        <attr name="drag_start_mode">
+            <enum name="onDown" value="0"/>
+            <enum name="onMove" value="1"/>
+            <enum name="onLongPress" value="2"/>
+        </attr>
+        <attr format="integer" name="drag_handle_id"/>
+        <attr format="integer" name="fling_handle_id"/>
+        <attr format="integer" name="click_remove_id"/>
+        <attr format="boolean" name="use_default_controller"/>
+    </declare-styleable><string name="select_remove_mode">Remove modes</string><dimen name="item_height">67dp</dimen><item name="drag_handle" type="id"/><string name="add_footer">Add footer</string><string name="add_header">Add header</string><string name="ok">OK</string><string name="select_enables">Enable/Disable</string><string-array name="drag_init_mode_labels">
+        <item>On down</item>
+        <item>On drag</item>
+        <item>On long press</item>
+    </string-array></file><file path="D:\demo\studioOne\androidOne\src\main\res\values\pulltorefresh_strings.xml" qualifiers=""><dimen name="indicator_corner_radius">12dp</dimen><string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string><dimen name="indicator_right_padding">10dp</dimen><item name="scrollview" type="id"/><declare-styleable name="PullToRefresh">
+
+        
+        <attr format="reference|color" name="ptrRefreshableViewBackground"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderBackground"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderTextColor"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderSubTextColor"/>
+
+        
+        <attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr>
+
+        
+        <attr format="reference|boolean" name="ptrShowIndicator"/>
+
+        
+        <attr format="reference" name="ptrDrawable"/>
+
+        
+        <attr format="reference" name="ptrDrawableStart"/>
+
+        
+        <attr format="reference" name="ptrDrawableEnd"/>
+
+        
+        <attr format="reference|boolean" name="ptrOverScroll"/>
+
+        
+        <attr format="reference" name="ptrHeaderTextAppearance"/>
+
+        
+        <attr format="reference" name="ptrSubHeaderTextAppearance"/>
+
+        
+        <attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr>
+
+        
+        <attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/>
+
+        
+        <attr format="reference|boolean" name="ptrListViewExtrasEnabled"/>
+
+        
+        <attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/>
+
+        
+        <attr format="reference|color" name="ptrAdapterViewBackground"/>
+        <attr format="reference" name="ptrDrawableTop"/>
+        <attr format="reference" name="ptrDrawableBottom"/>
+    </declare-styleable><item name="gridview" type="id"/><string name="pull_to_refresh_release_label">放开以刷新…</string><string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string><string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string><dimen name="header_footer_top_bottom_padding">12dp</dimen><item name="webview" type="id"/><dimen name="indicator_internal_padding">4dp</dimen><string name="pull_to_refresh_refreshing_label">正在载入…</string><string name="pull_to_refresh_pull_label">下拉刷新…</string><dimen name="header_footer_left_right_padding">24dp</dimen></file><file path="D:\demo\studioOne\androidOne\src\main\res\values\slidingmenu_strings.xml" qualifiers=""><item name="selected_view" type="id"/><color name="holo_blue_bright">#ff00ddff</color><declare-styleable name="SlidingMenu">
+        <attr name="mode">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr>
+        <attr format="reference" name="viewAbove"/>
+        <attr format="reference" name="viewBehind"/>
+        <attr format="dimension" name="behindOffset"/>
+        <attr format="dimension" name="behindWidth"/>
+        <attr format="float" name="behindScrollScale"/>
+        <attr name="touchModeAbove">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+        </attr>
+        <attr format="reference" name="shadowDrawable"/>
+        <attr format="dimension" name="shadowWidth"/>
+        <attr format="boolean" name="behindFadeEnabled"/>
+        <attr format="float" name="behindFadeDegree"/>
+        <attr format="boolean" name="selectorEnabled"/>
+        <attr format="reference" name="selectorDrawable"/>
+    </declare-styleable><item name="scrapped_view" type="id"/><dimen name="shadow_width">15dp</dimen><dimen name="menu_header_line">3dp</dimen><dimen name="menu_item_padding">10dp</dimen><dimen name="menu_header_padding_top">8dp</dimen><dimen name="menu_icon_side">40dp</dimen><dimen name="slidingmenu_offset">60dp</dimen></file><file path="D:\demo\studioOne\androidOne\src\main\res\values\slidingtab_strings.xml" qualifiers=""><declare-styleable name="PagerSlidingTabStrip">
+        <attr format="color" name="pstsIndicatorColor"/>
+        <attr format="color" name="pstsUnderlineColor"/>
+        <attr format="color" name="pstsDividerColor"/>
+        <attr format="dimension" name="pstsIndicatorHeight"/>
+        <attr format="dimension" name="pstsUnderlineHeight"/>
+        <attr format="dimension" name="pstsDividerPadding"/>
+        <attr format="dimension" name="pstsTabPaddingLeftRight"/>
+        <attr format="dimension" name="pstsScrollOffset"/>
+        <attr format="reference" name="pstsTabBackground"/>
+        <attr format="boolean" name="pstsShouldExpand"/>
+        <attr format="boolean" name="pstsTextAllCaps"/>
+    </declare-styleable><color name="background_tab_pressed">#6633B5E5</color></file><file path="D:\demo\studioOne\androidOne\src\main\res\values\strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string name="common_exit">press again to exit the system</string><string name="common_request_error">get data is error, please try it</string><string name="common_title_tips">Tips</string><string-array name="main_menu_array">
+        <item>product list</item>
+        <item>action list</item>
+        <item>company description</item>
+        <item>about us</item>
+        <item>switch bg</item>
+        <item>switch lang</item>
+    </string-array><string name="common_confirm">Confirm</string><string name="action_settings">Settings</string><string name="app_name">One</string><string name="menu_member_title">更多</string><string name="menu_category_title">分类</string><string name="common_network_error">network problem, please try again later</string><string name="menu_home_title">首页</string><string name="menu_cart_title">购物车</string><string name="common_app_version">version：1.0</string><string name="common_cancel">Cancel</string><string name="menu_collection_title">收藏</string><string name="common_app_copyright">Copyright © 2012 SD, Inc. All Rights Reserved.</string><string name="common_network_unavailable">currently netwok not available</string><string-array name="countries">
+        
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua &amp; Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+         
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Brazil</item>
+        <item>Brunei</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burma</item>
+        <item>Burundi</item>
+        
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Cape Verde</item>
+        <item>Central African Republic</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Congo, Democratic Republic of the</item>
+        <item>Congo, Republic of the</item>
+        <item>Costa Rica</item>
+        <item>Cote d\'voire</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Cyprus</item>
+        <item>Czech Republic</item>
+        
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Dominican Republic</item>
+        
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Ethiopia</item>
+        
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>France</item>
+
+        <item>Gabon</item>
+        <item>Gambia, The</item>
+        <item>Georgia</item>
+        <item>Ghana</item>
+        <item>Greece</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guinea</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+        
+        <item>Haiti</item>
+        <item>Holy See</item>
+        <item>Honduras</item>
+        <item>Hong Kong</item>
+        <item>Hungary</item>
+        
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jordan</item>
+        
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Kiribati</item>
+        <item>Korea, North</item>
+        <item>Korea, South</item>
+        <item>Kosovo</item>
+        <item>Kuwait</item>
+        <item>Kyrgyzstan</item>
+        
+        <item>Laos</item>
+        <item>Latvia</item>
+        <item>Lebanon</item>
+        <item>Lesotho</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Liechtenstein</item>
+        <item>Lithuania</item>
+        <item>Luxembourg</item>
+        
+        <item>Macau</item>
+		<item>Macedonia</item>
+		<item>Madagascar</item>
+		<item>Malawi</item>
+		<item>Malaysia</item>
+		<item>Maldives</item>
+		<item>Mali</item>
+		<item>Malta</item>
+		<item>Marshall Islands</item>
+		<item>Mauritania</item>
+		<item>Mauritius</item>
+		<item>Mexico</item>
+		<item>Micronesia</item>
+		<item>Moldova</item>
+		<item>Monaco</item>
+		<item>Mongolia</item>
+		<item>Montenegro</item>
+		<item>Morocco</item>
+		<item>Mozambique</item>
+		
+        <item>Namibia</item>
+		<item>Nauru</item>
+		<item>Nepal</item>
+		<item>Netherlands</item>
+		<item>Netherlands Antilles</item>
+		<item>New Zealand</item>
+		<item>Nicaragua</item>
+		<item>Niger</item>
+		<item>Nigeria</item>
+		<item>North Korea</item>
+		<item>Norway</item>
+		
+        <item>Oman</item>
+        
+        <item>Pakistan</item>
+		<item>Palau</item>
+		<item>Palestinian Territories</item>
+		<item>Panama</item>
+		<item>Papua New Guinea</item>
+		<item>Paraguay</item>
+		<item>Peru</item>
+		<item>Philippines</item>
+		<item>Poland</item>
+		<item>Portugal</item>
+		
+        <item>Qatar</item>
+        
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Rwanda</item>
+        
+        <item>Saint Kitts and Nevis</item>
+		<item>Saint Lucia</item>
+		<item>Saint Vincent and the Grenadines</item>
+		<item>Samoa</item>
+		<item>San Marino</item>
+		<item>Sao Tome and Principe</item>
+		<item>Saudi Arabia</item>
+		<item>Senegal</item>
+		<item>Serbia</item>
+		<item>Seychelles</item>
+		<item>Sierra Leone</item>
+		<item>Singapore</item>
+		<item>Slovakia</item>
+		<item>Slovenia</item>
+		<item>Solomon Islands</item>
+		<item>Somalia</item>
+		<item>South Africa</item>
+		<item>South Korea</item>
+		<item>South Sudan</item>
+		<item>Spain</item>
+		<item>Sri Lanka</item>
+		<item>Sudan</item>
+		<item>Suriname</item>
+		<item>Swaziland</item>
+		<item>Sweden</item>
+		<item>Switzerland</item>
+		<item>Syria</item>
+
+        <item>Taiwan</item>
+        <item>Tajikistan</item>
+        <item>Tanzania</item>
+        <item>Thailand </item>
+        <item>Timor-Leste</item>
+        <item>Togo</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turkmenistan</item>
+        <item>Tuvalu</item>
+        
+        <item>Uganda</item>
+        <item>Ukraine</item>
+        <item>United Arab Emirates</item>
+        <item>United Kingdom</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+        
+        <item>Vanuatu</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        
+        <item>Yemen</item>
+        
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+    </string-array><string name="common_loading_tips">Loading…</string></file><file path="D:\demo\studioOne\androidOne\src\main\res\values\styles.xml" qualifiers=""><style name="NavPage">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center_horizontal</item>
+        
+        <item name="android:background">@color/navpage</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="dialogFullscreen">
+        <item name="android:windowFullscreen">true</item>
+    </style><style name="MainTabButton">
+        <item name="android:textSize">12sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">0dp</item>
+         <item name="android:background">@null</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:button">@null</item>
+        <item name="android:textColor">@drawable/selector_menu_txt</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:paddingTop">5.0dip</item>
+        <item name="android:paddingBottom">5.0dip</item>
+    </style><style name="load_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowFullscreen">true</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style></file><file path="D:\demo\studioOne\androidOne\src\main\res\values\swipelistview_string.xml" qualifiers=""><dimen name="height_list">90dp</dimen><style name="ListFrontContent">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/height_list</item>
+        <item name="android:background">@color/background_list_front</item>
+        <item name="android:padding">@dimen/padding_default</item>
+    </style><dimen name="size_list_image">64dp</dimen><style name="ListImage">
+        <item name="android:layout_width">@dimen/size_list_image</item>
+        <item name="android:layout_height">@dimen/size_list_image</item>
+        <item name="android:scaleGravity">fill</item>
+        <item name="android:layout_marginRight">@dimen/padding_default</item>
+    </style><dimen name="padding_default">8dp</dimen><declare-styleable name="SwipeListView">
+        <attr format="boolean" name="swipeOpenOnLongPress"/>
+        <attr format="integer" name="swipeAnimationTime"/>
+        <attr format="dimension" name="swipeOffsetLeft"/>
+        <attr format="dimension" name="swipeOffsetRight"/>
+        <attr format="boolean" name="swipeCloseAllItemsWhenMoveList"/>
+        <attr format="reference" name="swipeFrontView"/>
+        <attr format="reference" name="swipeBackView"/>
+        <attr format="enum" name="swipeMode">
+            <enum name="none" value="0"/>
+            <enum name="both" value="1"/>
+            <enum name="right" value="2"/>
+            <enum name="left" value="3"/>
+        </attr>
+        <attr format="enum" name="swipeActionLeft">
+            <enum name="reveal" value="0"/>
+            <enum name="dismiss" value="1"/>
+            <enum name="choice" value="2"/>
+        </attr>
+        <attr format="enum" name="swipeActionRight">
+            <enum name="reveal" value="0"/>
+            <enum name="dismiss" value="1"/>
+            <enum name="choice" value="2"/>
+        </attr>
+        <attr format="reference" name="swipeDrawableChecked"/>
+        <attr format="reference" name="swipeDrawableUnchecked"/>
+    </declare-styleable><style name="ListBackContent">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/height_list</item>
+        <item name="android:background">@drawable/background_item</item>
+        <item name="android:gravity">center</item>
+    </style><color name="background_list_front">#ffffff</color></file><file path="D:\demo\studioOne\androidOne\src\main\res\values-zh\strings.xml" qualifiers="zh"><string name="app_name">一个</string><string name="common_exit">再按一次退出程序</string><string name="common_network_error">网络有问题，请稍后重试</string><string name="common_title_tips">温馨提示</string><string name="common_app_version">版本：1.0</string><string name="common_network_unavailable">当前网络不可用</string><string-array name="main_menu_array">
+        <item>产品列表</item>
+        <item>促销活动</item>
+        <item>公司简介</item>
+        <item>关于我们</item>
+        <item>切换背景</item>
+        <item>切换语言</item>
+    </string-array><string name="common_request_error">获取数据异常，请重试</string><string name="common_app_copyright">Copyright © 2012 SD, Inc. All Rights Reserved.</string><string name="action_settings">设置</string><string name="common_confirm">确认</string><string name="common_cancel">取消</string><string name="common_loading_tips">正在加载…</string><string name="hello_world">你好</string></file><file name="config" path="D:\demo\studioOne\androidOne\src\main\res\xml\config.xml" qualifiers="" type="xml"/></source><source path="D:\demo\studioOne\androidOne\build\generated\res\rs\debug"/><source path="D:\demo\studioOne\androidOne\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\demo\studioOne\androidOne\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable><declare-styleable name="SwipeListView"><attr format="boolean" name="swipeOpenOnLongPress"/><attr format="integer" name="swipeAnimationTime"/><attr format="dimension" name="swipeOffsetLeft"/><attr format="dimension" name="swipeOffsetRight"/><attr format="boolean" name="swipeCloseAllItemsWhenMoveList"/><attr format="reference" name="swipeFrontView"/><attr format="reference" name="swipeBackView"/><attr format="enum" name="swipeMode">
+            <enum name="none" value="0"/>
+            <enum name="both" value="1"/>
+            <enum name="right" value="2"/>
+            <enum name="left" value="3"/>
+        </attr><attr format="enum" name="swipeActionLeft">
+            <enum name="reveal" value="0"/>
+            <enum name="dismiss" value="1"/>
+            <enum name="choice" value="2"/>
+        </attr><attr format="enum" name="swipeActionRight">
+            <enum name="reveal" value="0"/>
+            <enum name="dismiss" value="1"/>
+            <enum name="choice" value="2"/>
+        </attr><attr format="reference" name="swipeDrawableChecked"/><attr format="reference" name="swipeDrawableUnchecked"/></declare-styleable><declare-styleable name="SlidingMenu"><attr name="mode">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr><attr format="reference" name="viewAbove"/><attr format="reference" name="viewBehind"/><attr format="dimension" name="behindOffset"/><attr format="dimension" name="behindWidth"/><attr format="float" name="behindScrollScale"/><attr name="touchModeAbove">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+        </attr><attr format="reference" name="shadowDrawable"/><attr format="dimension" name="shadowWidth"/><attr format="boolean" name="behindFadeEnabled"/><attr format="float" name="behindFadeDegree"/><attr format="boolean" name="selectorEnabled"/><attr format="reference" name="selectorDrawable"/></declare-styleable><declare-styleable name="BtgHorizontalListView"><attr format="dimension" name="btg_dividerWidth"/><attr name="android:divider"/><attr name="android:requiresFadingEdge"/><attr name="android:fadingEdgeLength"/></declare-styleable><declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/></declare-styleable><declare-styleable name="ProgressWheel"><attr format="boolean" name="matProg_progressIndeterminate"/><attr format="color" name="matProg_barColor"/><attr format="color" name="matProg_rimColor"/><attr format="dimension" name="matProg_rimWidth"/><attr format="float" name="matProg_spinSpeed"/><attr format="integer" name="matProg_barSpinCycleTime"/><attr format="dimension" name="matProg_circleRadius"/><attr format="boolean" name="matProg_fillRadius"/><attr format="dimension" name="matProg_barWidth"/><attr format="boolean" name="matProg_linearProgress"/></declare-styleable><declare-styleable name="BtgRippleView"><attr format="reference" name="btg_rv_background"/><attr format="reference" name="btg_rv_foreground"/></declare-styleable><declare-styleable name="DragSortListView"><attr format="dimension" name="collapsed_height"/><attr format="float" name="drag_scroll_start"/><attr format="float" name="max_drag_scroll_speed"/><attr format="color" name="float_background_color"/><attr name="remove_mode">
+            <enum name="clickRemove" value="0"/>
+            <enum name="flingRemove" value="1"/>
+        </attr><attr format="boolean" name="track_drag_sort"/><attr format="float" name="float_alpha"/><attr format="float" name="slide_shuffle_speed"/><attr format="integer" name="remove_animation_duration"/><attr format="integer" name="drop_animation_duration"/><attr format="boolean" name="drag_enabled"/><attr format="boolean" name="sort_enabled"/><attr format="boolean" name="remove_enabled"/><attr name="drag_start_mode">
+            <enum name="onDown" value="0"/>
+            <enum name="onMove" value="1"/>
+            <enum name="onLongPress" value="2"/>
+        </attr><attr format="integer" name="drag_handle_id"/><attr format="integer" name="fling_handle_id"/><attr format="integer" name="click_remove_id"/><attr format="boolean" name="use_default_controller"/></declare-styleable><declare-styleable name="GenericDraweeView"><attr format="integer" name="fadeDuration"/><attr format="float" name="viewAspectRatio"/><attr format="reference" name="placeholderImage"/><attr name="placeholderImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="reference" name="retryImage"/><attr name="retryImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="reference" name="failureImage"/><attr name="failureImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="reference" name="progressBarImage"/><attr name="progressBarImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="integer" name="progressBarAutoRotateInterval"/><attr name="actualImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="reference" name="backgroundImage"/><attr format="reference" name="overlayImage"/><attr format="reference" name="pressedStateOverlayImage"/><attr format="boolean" name="roundAsCircle"/><attr format="dimension" name="roundedCornerRadius"/><attr format="boolean" name="roundTopLeft"/><attr format="boolean" name="roundTopRight"/><attr format="boolean" name="roundBottomRight"/><attr format="boolean" name="roundBottomLeft"/><attr format="color" name="roundWithOverlayColor"/><attr format="dimension" name="roundingBorderWidth"/><attr format="color" name="roundingBorderColor"/><attr format="dimension" name="roundingBorderPadding"/></declare-styleable></configuration></mergedItems></merger>

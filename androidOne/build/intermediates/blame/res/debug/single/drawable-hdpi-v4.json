@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guidepage_1.jpg",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable-hdpi\\guidepage_1.jpg"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guidepage_4.jpg",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable-hdpi\\guidepage_4.jpg"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guidepage_2.jpg",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable-hdpi\\guidepage_2.jpg"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guidepage_3.jpg",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable-hdpi\\guidepage_3.jpg"
+    }
+]

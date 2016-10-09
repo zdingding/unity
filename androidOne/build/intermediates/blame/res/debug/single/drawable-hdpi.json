@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_clear_pressed.png",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable-hdpi\\search_clear_pressed.png"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\waterfall_arrow.png",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable-hdpi\\waterfall_arrow.png"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drawer_shadow.9.png",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\page_indicator.png",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable-hdpi\\page_indicator.png"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pulltorefresh_default_flip.png",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable-hdpi\\pulltorefresh_default_flip.png"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pulltorefresh_default_rotate.png",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable-hdpi\\pulltorefresh_default_rotate.png"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drawer_menu.png",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable-hdpi\\drawer_menu.png"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ad.png",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable-hdpi\\ad.png"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drag_delete_x.png",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable-hdpi\\drag_delete_x.png"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\waterfall_item_bg.9.png",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable-hdpi\\waterfall_item_bg.9.png"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\background_item.9.png",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable-hdpi\\background_item.9.png"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drag_icon.9.png",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable-hdpi\\drag_icon.9.png"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\page_indicator_focused.png",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable-hdpi\\page_indicator_focused.png"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drag.9.png",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable-hdpi\\drag.9.png"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pulltorefresh_indicator_arrow.png",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable-hdpi\\pulltorefresh_indicator_arrow.png"
+    }
+]

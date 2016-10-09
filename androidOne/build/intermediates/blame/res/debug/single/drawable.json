@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_menu_member.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable\\selector_menu_member.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_background.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable\\sidebar_background.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\btg_btn_cross.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\drawable\\btg_btn_cross.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\btg_icon_tag_priority.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\drawable\\btg_icon_tag_priority.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\btg_btn_priority_2.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\drawable\\btg_btn_priority_2.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\btg_btn_fab.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\drawable\\btg_btn_fab.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\btg_btn_publish.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\drawable\\btg_btn_publish.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\btg_text_white.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\drawable\\btg_text_white.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\btg_btn_arrow.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\drawable\\btg_btn_arrow.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\btg_btn_report.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\drawable\\btg_btn_report.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_menu_txt.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable\\selector_menu_txt.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\slidingtab_background_tab.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable\\slidingtab_background_tab.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_menu_home.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable\\selector_menu_home.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\btg_text_black.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\drawable\\btg_text_black.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\pulltorefresh_bg_top.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable\\pulltorefresh_bg_top.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\btg_btn_white_rect.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\drawable\\btg_btn_white_rect.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\btg_btn_tick.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\drawable\\btg_btn_tick.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\pulltorefresh_bg_bottom.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable\\pulltorefresh_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\btg_btn_priority_1.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\drawable\\btg_btn_priority_1.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_menu_category.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable\\selector_menu_category.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\btg_btn_blue_rect.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\drawable\\btg_btn_blue_rect.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\btg_btn_user.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\drawable\\btg_btn_user.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_menu_cart.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable\\selector_menu_cart.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_menu_collection.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\src\\main\\res\\drawable\\selector_menu_collection.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\btg_btn_exchange.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\drawable\\btg_btn_exchange.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\btg_btn_priority_0.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\drawable\\btg_btn_priority_0.xml"
+    },
+    {
+        "merged": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\res\\merged\\debug\\drawable\\btg_btn_priority_3.xml",
+        "source": "D:\\demo\\studioOne\\androidOne\\build\\intermediates\\exploded-aar\\studioOne\\bugtags\\unspecified\\res\\drawable\\btg_btn_priority_3.xml"
+    }
+]
